@@ -2,7 +2,7 @@ bot auto invite caping
 
 pkg install php (jika sudah tekan enter) 
 
-git clone  (jika sudah tekan enter) 
+git clone https://github.com/tropicalx/botcaping (jika sudah tekan enter) 
 
 cd botcaping (jika sudah tekan enter) 
 
